@@ -1,0 +1,184 @@
+[
+    {
+        "name": "柬埔寨",
+        "name_kh": "កម្ពុជា",
+        "name_en": "Cambodia",
+        "pid": "0",
+        "level": "1"
+    },
+    {
+        "name": "班迭棉吉省",
+        "name_kh": "បន្ទាយមានជ័យ",
+        "name_en": "Banteay Meanchey",
+        "pid": "4975",
+        "level": "1"
+    },
+    {
+        "name": "马德望省",
+        "name_kh": "បាត់ដំបង",
+        "name_en": "Battambang",
+        "pid": "4975",
+        "level": "1"
+    },
+    {
+        "name": "磅湛省",
+        "name_kh": "កំពង់ចាម",
+        "name_en": "Kampong Cham",
+        "pid": "4975",
+        "level": "1"
+    },
+    {
+        "name": "磅清扬省",
+        "name_kh": "កំពង់ឆ្នាំង",
+        "name_en": "Kampong Chhnang",
+        "pid": "4975",
+        "level": "1"
+    },
+    {
+        "name": "磅士卑省",
+        "name_kh": "កំពង់ស្ពឺ",
+        "name_en": "Kampong Spoe",
+        "pid": "4975",
+        "level": "1"
+    },
+    {
+        "name": "磅通省",
+        "name_kh": "កំពង់ធំ",
+        "name_en": "Kampong Thom",
+        "pid": "4975",
+        "level": "1"
+    },
+    {
+        "name": "贡布省",
+        "name_kh": "កំពត",
+        "name_en": "Kampot",
+        "pid": "4975",
+        "level": "1"
+    },
+    {
+        "name": "甘丹省",
+        "name_kh": "កណ្តាល",
+        "name_en": "Kandal",
+        "pid": "4975",
+        "level": "1"
+    },
+    {
+        "name": "戈公省",
+        "name_kh": "កោះកុង",
+        "name_en": "Koh Kong",
+        "pid": "4975",
+        "level": "1"
+    },
+    {
+        "name": "桔井省",
+        "name_kh": "ក្រចេះ",
+        "name_en": "Kratié",
+        "pid": "4975",
+        "level": "1"
+    },
+    {
+        "name": "蒙多基里省",
+        "name_kh": "មណ្ឌលគីរី",
+        "name_en": "Mondulkiri",
+        "pid": "4975",
+        "level": "1"
+    },
+    {
+        "name": "金边市",
+        "name_kh": "ភ្នំពេញ",
+        "name_en": "Phnom Penh",
+        "pid": "4975",
+        "level": "1"
+    },
+    {
+        "name": "柏威夏省",
+        "name_kh": "ព្រះវិហារ",
+        "name_en": "Preah Vihear",
+        "pid": "4975",
+        "level": "1"
+    },
+    {
+        "name": "波罗勉省",
+        "name_kh": "ព្រៃវែង",
+        "name_en": "Prey Veng",
+        "pid": "4975",
+        "level": "1"
+    },
+    {
+        "name": "菩萨省",
+        "name_kh": "ពោធិសាត់",
+        "name_en": "Pursat",
+        "pid": "4975",
+        "level": "1"
+    },
+    {
+        "name": "拉达那基里省",
+        "name_kh": "រតនគីរី",
+        "name_en": "Ratanakiri",
+        "pid": "4975",
+        "level": "1"
+    },
+    {
+        "name": "暹粒省",
+        "name_kh": "សៀមរាប",
+        "name_en": "Siem Reap",
+        "pid": "4975",
+        "level": "1"
+    },
+    {
+        "name": "西哈努克省",
+        "name_kh": "ក្រុងសីហនុ",
+        "name_en": "Krŏng Preah Sihanouk",
+        "pid": "4975",
+        "level": "1"
+    },
+    {
+        "name": "上丁省",
+        "name_kh": "ស្ទឹងត្រែង",
+        "name_en": "Stung Treng",
+        "pid": "4975",
+        "level": "1"
+    },
+    {
+        "name": "柴桢省",
+        "name_kh": "ស្វាយរៀង",
+        "name_en": "Svay Rieng",
+        "pid": "4975",
+        "level": "1"
+    },
+    {
+        "name": "茶胶省",
+        "name_kh": "តាកែវ",
+        "name_en": "Takéo",
+        "pid": "4975",
+        "level": "1"
+    },
+    {
+        "name": "奥多棉芷省",
+        "name_kh": "ឧត្តរមានជ័យ",
+        "name_en": "Oddar Meancheay",
+        "pid": "4975",
+        "level": "1"
+    },
+    {
+        "name": "白马市(省级行政区)",
+        "name_kh": "កែប",
+        "name_en": "Krŏng Kep",
+        "pid": "4975",
+        "level": "1"
+    },
+    {
+        "name": "拜林市(省级行政区)",
+        "name_kh": "ប៉ៃលិន",
+        "name_en": "Krŏng Paĭlin",
+        "pid": "4975",
+        "level": "1"
+    },
+    {
+        "name": "特本克蒙省",
+        "name_kh": "ខេត្តត្បូងឃ្មុំ",
+        "name_en": "Tbong Khmum",
+        "pid": "4975",
+        "level": "1"
+    }
+]
