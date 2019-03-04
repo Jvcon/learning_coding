@@ -1,0 +1,17 @@
+Orange_Blue
+原作者: That_Stevens_Guy
+Locations: Australia
+中文化:Garphy
+
+Orange_Blue_NO-LOGIN.tpl                        无默认登陆界面
+Orange_Blue_LOGIN.tpl                              启用默认登陆界面
+
+模版特性:
+支持mp3播放,支持图片缩略图浏览
+
+模版修改:
+记事本打开相应的.tpl文件
+1.看见**** SOMETHING ****这样内容的,改为自己需要的文字
+2.将index文件夹放入HFS的虚拟文件系统的根目录下即可
+index下面的thumb文件夹为缩略图存放目录(缩略图需手动制作并放于该目录下)
+3.关闭HFS,将修改好的tpl文件改名为hfs.tpl覆盖到hfs程序所在文件夹,重新打开HFS即可

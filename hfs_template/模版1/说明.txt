@@ -1,0 +1,22 @@
+注:新版本采用UTF-8字符集
+发布一套支持最新2.2 120的模版,前面3套模版近期将做些修改...
+更新Live 0.25b,简繁版
+
+Thuderchicken_of_Glory_Blue
+原作者: That_Stevens_Guy, Flynsarmy, and now ledufe.
+Locations: Australia, Brazil
+Version: 2.0
+中文化:Garphy
+
+Thuderchicken_of_Glory_Blue.tpl                        无默认登陆界面
+Thuderchicken_of_Glory_Blue+Login.tpl                启用默认登陆界面
+
+模版特性:
+支持mp3播放,支持图片缩略图浏览
+
+模版修改:
+记事本打开相应的.tpl文件
+1.看见**** SOMETHING ****这样内容的,改为自己需要的文字
+2.将index文件夹放入HFS的虚拟文件系统的根目录下即可
+index下面的thumb文件夹为缩略图存放目录(缩略图需手动制作并放于该目录下)
+3.关闭HFS,将修改好的tpl文件改名为hfs.tpl覆盖到hfs程序所在文件夹,重新打开HFS即可

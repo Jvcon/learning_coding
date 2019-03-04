@@ -1,0 +1,432 @@
+/*
+Terayon - CSS
+
+ (c) 2007-2010, RAWR-Designs, Some Rights Reserved -
+	Christopher "That Stevens Guy" Stevens
+	Richard "Giant Eagle" Tuininga
+ (cc) http://creativecommons.org/licenses/by-nc-sa/3.0
+
+ Any queries? -
+	Email: contact[at]rawr-designs.com
+	Forum: http://www.rawr-designs.com/forum/
+ 	Homepage: http://www.rawr-designs.com
+*/
+body {
+margin:27px 10px 10px;
+scrollbar-face-color:#DEE3E7;
+scrollbar-highlight-color:#FFF;
+scrollbar-shadow-color:#DEE3E7;
+scrollbar-3dlight-color:#C7C3AE;
+scrollbar-arrow-color:#069;
+scrollbar-track-color:#EFEFEF;
+scrollbar-darkshadow-color:#98AAB1;
+background:#F3F5F8 url(/template/images/back.gif) repeat-x;
+text-align:center;
+}
+td, p {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+a:link,a:active,a:visited {
+text-decoration:none;
+color:#2A3852;
+}
+a:hover{color:#961228}  
+.bodyline {
+border:1px #BFBFBF solid;
+background:#F7F7F7;
+text-align:left;
+}
+.forumline {
+background:#A5A9AF;
+}
+.comment, .foldercomment {
+color:#000;
+font-size:9px;
+font-weight:normal;
+text-decoration:none;
+}
+td.background {
+background:#FFF url(/template/icons/file.gif) center center no-repeat;
+height:100%;
+}
+.row4 {
+background:#FFF url(/template/images/cellpic1.gif) repeat-x;
+}
+table#FileListTable tr, td.row1{
+background:#FFF url() no-repeat;text-align:left
+}
+.altRow1 {background:#fff}
+.altRow2 {background:#f8f8f8}
+.P {
+background-image:url(/template/icons/locked.gif);
+background-repeat:no-repeat;
+background-position:bottom left;
+}
+.row7 {
+font-size:11px;
+background:#F8F8F8;
+}
+td.catLeft {
+border-width:1px 0 0;
+border:#FFF 0;
+height:23px;
+background:url(/template/images/cellpic1.gif);
+}
+.v2 {
+font-size:0;
+height:22px;
+background:#E5ECF3 url(/template/images/cellpic4.gif) repeat-x;
+}
+.genmed, .gensmall {
+font-size:10px;
+color:#000;
+}
+a.genmed, a.gensmall {
+color:#565037;
+text-decoration:none;
+}
+a.genmed:hover, a.gensmall:hover {
+color:#59708D;
+}
+.nav1, .controls {
+height:23px;
+background:url(/template/images/cellpic2.gif) rgb(62,83,123);
+padding:0;
+margin:0;
+}
+.nav_top {
+color:#2A3852;
+vertical-align:center;
+padding:0;
+margin:0;
+}
+.nav_top a:link, .nav_top a:visited {
+vertical-align:center;
+text-vertical-align:center;
+font-weight:bold;
+font-size:10px;
+padding:5px 6px 6px;
+text-decoration:none;
+color:#EEE;
+}
+.nav_top a:link.active, .nav_top a:visited.active, .nav_top a:hover {
+color:#2A3852;
+}
+.cattitle {
+font-weight:bold;
+font-size:10px;
+letter-spacing:1px;
+color:#2A3852;
+}
+a.cattitle {
+text-decoration:none;
+color:#2A3852;
+}
+.forumlink {
+font-weight:bold;
+font-size:11px;
+color:#2A3852;
+}
+a.forumlink {
+text-decoration:none;
+color:#2A3852;
+border-style:none;
+}
+a.forumlink:hover {
+text-decoration:none;
+color:#961228;
+}
+.copyright {
+color:#2A3852;
+letter-spacing:-1px;
+background:url(/template/images/cellpic5.gif) repeat bottom;
+font:10px Verdana, Arial, Helvetica, sans-serif;
+}
+a.copyright {
+color:#FFF;
+text-decoration:none;
+}
+.quote {
+width:190px;
+color:#444;
+border:#D1D7DC 1px solid;
+background:#FAFAFA;
+font:11px/125% Verdana, Arial, Helvetica, sans-serif;
+}
+div.header {
+background:url(/template/images/headerBG.gif) #fff bottom repeat-x;
+height:59px;
+align:center;
+border:1px solid #bbb;
+border-bottom:0;
+}
+.MessageHeader {
+letter-spacing:1px;
+color:#2A3852;
+font:bold 18px Verdana, Arial, Helvetica, sans-serif;
+}
+.MessageFolder {
+letter-spacing:2px;
+color:#2A3852;
+font:bold 24px Verdana, Arial, Helvetica, sans-serif;
+}
+.MessageText {font-size:12px}
+.MessageTextSmall {font-size:9px}
+.MessageTextSmall2 {
+font-size:8px;
+font-weight:normal;
+}
+.ErrorText {
+font-size:12px;
+padding:0 25px 15px 25px;
+}
+.ErrorHeader {
+padding:24px 25px 20px 25px;
+letter-spacing:2px;
+color:#2A3852;
+font:bold 18px Verdana, Arial, Helvetica, sans-serif;
+}
+.ErrorCode {
+font-size:10px;
+color:#bbb;
+padding:20px 25px 15px 25px;
+float:right;
+position:relative;
+top:55%;
+}
+a.ServerStats:link, a.ServerStats:active, a.ServerStats:visited {
+font-size:10px;
+color:#EEE;
+}
+a.ServerStats:hover {
+font-size:10px;
+color:#BBBBEB;
+}
+img.image {
+position:relative;
+top:34px;
+left:24px;
+z-index:3;
+}
+.float {float:left}
+.line {
+width:95%;
+height:0;
+border-top:solid 1px #000;
+border-bottom:solid 1px #ddd;
+margin:8px auto;
+}
+.Arrow {
+background:url(/template/images/arrow.gif) left no-repeat;
+padding-left:20px;
+}
+.Response {
+letter-spacing:1px;
+color:#5555C5;
+}
+.Response:link, .Response:active, .Response:visited{
+letter-spacing:1px;
+color:#5555C5;
+}
+.Response:hover {
+letter-spacing:1px;
+color:#c55522;
+}
+a.MessageLink:link, a.MessageLink:active, a.MessageLink:visited {
+color:#2A3852;
+}
+a.MessageLink:hover {
+color:#1816A7;
+}
+a.MessageImgLink:link, a.MessageImgLink:active, a.MessageImgLink:visited, a.MessageImgLink:hover {
+color:#FFF;
+border-width:0;
+}
+.redtext {
+color:#F11;
+font-size:9px;
+font-weight:normal;
+}
+.bluetext {
+color:#33F;
+font-size:9px;
+font-weight:normal;
+}
+.UploadSuccesfull {
+color:#0c0;
+font-size:9px;
+font-weight:normal;
+letter-spacing:1px;
+}
+.UploadFailed {
+color:#F11;
+font-size:9px;
+font-weight:normal;
+letter-spacing:1px;
+}
+.controls {
+line-height:16px;
+border:1px solid #bbb;
+border-top:0;
+}
+img.disabled, .emp, .dow, .bro {
+opacity:0.25;
+filter:alpha(opacity=25);
+}
+.fileStats {padding-left:30px; color:#aaa; line-height:11px; text-align:bottom;}
+.fileLink {line-height:14px; padding-left:3px;}
+.commentStyle1 {float:left;padding-left:10px;width:7px;}
+.commentStyle1 div {border-bottom:1px solid #bbb;border-left:1px solid #bbb;width:7px;height:7px;}
+.commentStyle2 {float:left;padding-left:5px;width:93%;}
+.minHeight {height:39px;width:0;}
+.noIcon {width:64px;height:64px;border:0;}
+.quicklinks a{cursor:hand;}
+.quicklinks {width:71px;height:28px;font-size:0;cursor:default;}
+.q1, .q3 {float:left;}
+.q2 {float:right;}
+.q3 {position:relative;top:12px;left:10px;}
+.qrow {padding:0 15px;}
+.mag, .dow, .dow-a, .emp, .fla, .bro, .bro-a, .div, .den, .una, .log, .not, .sho, .hid, .inf, .clo, .mov
+{background-image:url(/Template/Images/TerayonQuicklinks.gif);}
+.mag, .dow, .dow-a, .emp, .fla, .bro, .bro-a, .div {
+height:28px; width:28px;}
+.den, .una, .log, .not {height:44px; width:44px;}
+.sho, .hid, .inf, .clo, .mov{
+height:14px; width:14px; font-size:0;}
+.mag {background-position:-1px -1px;}
+.dow, .dow-a {background-position:-1px -31px;}
+.emp {background-position:-1px -61px;}
+.fla {background-position:-31px -1px;}
+.bro, .bro-a {background-position:-31px -31px;}
+.div {background-position:-31px -61px;}
+.den {background-position:-62px -0;}
+.una {background-position:-62px -46px;}
+.log {background-position:-108px -46px;}
+.not {background-position:-108px -0;}
+.sho {background-position:-153px -1px;}
+.hid {background-position:-153px -17px;}
+.inf {background-position:-153px -33px;}
+.clo {background-position:-153px -49px;}
+.mov {background-position:-153px -65px;}
+
+.proL, .proM, .proR {background-image:url(/template/images/progressbar.gif);float:left;height:29px;z-index:10;position:relative;}
+.proL {width:6px;background-position:0 0;}
+.proR {width:6px;background-position:0 -29px;}
+.proM {width:288px;background-position:0 -58px;}
+.proS {background:#FFF url(/template/images/cellpic2.gif) repeat-x;height:29px;z-index:2;position:relative;top:-30px;float:left;}
+.proP {float:left;padding:8px 0;}
+.proBack {float:left;width:300px;}
+.proB {position:relative;left:-300px;top:30px;}
+
+#fo1 {display:none;z-index:5;}
+#fo2 {display:none;z-index:10;}
+#fo3 {display:none;z-index:15;}
+
+.Module {
+width:200px;
+padding:1px;
+background:#A5A9AF;
+margin-top:10px;
+}
+.ModuleRow1 {
+width:192px;
+height:15px;
+padding:4px;
+background:url(/template/images/cellpic1.gif);
+font:900 10px verdana;
+letter-spacing:0;
+color:#2A3852;
+}
+div.nav1 {margin-top:1px;}
+.ModuleRow2 {
+width:196px;
+margin-top:1px;
+padding:2px;
+background:#FFF url(/template/images/cellpic1.gif) repeat-x;
+}
+.ModuleRow3 {
+width:200px;
+margin-top:1px;
+height:22px;
+background:#E5ECF3 url(/template/images/cellpic4.gif) repeat-x;
+}
+
+.ModuleText {
+font-size:9px;
+padding:10px;
+}
+.ModuleHeader {
+padding:6px 0 0 10px;
+letter-spacing:1px;
+color:#2A3852;
+font:bold 17px Verdana, Arial, Helvetica, sans-serif;
+}
+.ModuleTitle {float:left}
+.ModuleLink {float:right}
+
+.Box{
+z-index:75;
+position:absolute;
+background:#A5A9AF;
+opacity:0;
+filter:alpha(opacity=0);
+padding:1px;
+}
+#progressTable {width:100%;font:9px verdana;color:#2A3852;background:#A5A9AF}
+#progressTable td {padding:0 5px;background:#fff;text-align:left;}
+#progressTable tr {height:20px;background:#fff;}
+#progressTable tr.up {color:rgb(115,26,8);}
+#progressTable div.down {height:18px;background:#fff url(/template/images/progress.gif) left repeat-x;}
+#progressTable div.up {height:18px;background:#fff url(/template/images/progressup.gif) left repeat-x;}
+#progressTable div.perc {padding:2px 0 0 0;float:right;}
+#progressTable td.r1 {width:190px}
+#progressTable td.r2 {width:60px}
+#progressTable td.r3 {width:150px;padding:1px}
+#progressTable td.r4 {width:70px}
+#progressTable td.r5 {width:40px}
+
+.daBox1 { height:15px;padding:4px;background:url(/template/images/cellpic1.gif);font:900 10px verdana;letter-spacing:0;color:#2A3852; }
+.daBox2 { margin-top:1px;padding:5px;background:#FFF url(/template/images/cellpic1.gif) repeat-x; }
+.daBox3 { margin-top:1px;height:22px;background:#E5ECF3 url(/template/images/cellpic4.gif) repeat-x; }
+
+/* Shoutbox */
+.msgDelete {float:right}
+.msgUser {color:#333}
+.msgHeader {border-bottom:1px dashed #BFBFBF}
+.msgInner, .msgHeader {padding:2px}
+.msgOuter {
+border-bottom:1px solid #BFBFBF;
+font-weight:normal;
+font-size:11px;
+max-width:196px;
+}
+#msgBody {
+background:#FFF;
+overflow-x:hidden;
+text-align:left;
+font:12px "Geneva",Arial,"Helvetica",sans-serif;
+margin:0;
+padding:0;
+}
+#msgForm {padding:5px}
+#msgInput {margin-top:2px}
+#msgSubmit {margin-top:5px}
+#msgFail {padding-top:5px}
+
+.p {
+	padding-bottom:5px;
+	margin-bottom:5px;
+	border-bottom:1px solid #A5A9AF;
+}
+.pOut {
+	margin-top:5px;
+	width:175px;
+	border:1px solid #A5A9AF;
+	text-align:left;
+	background:#FFF;
+}
+.pIn {
+	height:15px;
+	background:url(/template/images/cellpic2.gif) rgb(62,83,123) top center repeat-x;
+	border-right:1px solid #A5A9AF;
+}

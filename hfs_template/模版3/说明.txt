@@ -1,0 +1,13 @@
+HFS_Terayon_v1.2.1 - UTF-8
+原作者: Giant Eagle
+汉化:Garphy
+
+HFS Terayon v1.2.1.tpl
+
+模版特性:
+精美图标,地址栏功能,整个文件夹下载功能,代码优化
+
+模版修改:
+记事本打开相应的.tpl文件进行修改
+1.将Template文件夹放入HFS的虚拟文件系统的根目录下即可
+2.关闭HFS,将修改好的tpl文件改名为hfs.tpl覆盖到hfs程序所在文件夹,重新打开HFS即可
